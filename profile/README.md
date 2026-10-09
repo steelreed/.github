@@ -18,7 +18,7 @@ AI agents, so our tools check what actually runs, not what the code looks like.
 
 | Project | What it does | Status |
 |---|---|---|
-| QueryFence | SQL policy testing for the JVM. Catches tenant leaks, unbounded updates and unsafe queries in your integration tests. | 0.1.0 in preparation |
+| [QueryFence](https://github.com/steelreed/queryfence) | SQL policy testing for the JVM. Catches tenant leaks, unbounded updates and unsafe queries in your integration tests. | 0.1.0 in preparation |
 
 ## How we build
 
