@@ -7,6 +7,8 @@
 
 <p align="center"><b>Backend tools that bend, not break.</b></p>
 
+<p align="center"><a href="https://steelreed.com">steelreed.com</a></p>
+
 In Aesop's fable, the storm uproots the oak, and the reed survives because it bends. In Vietnam,
 where we build, the same lesson grows as bamboo.
 
@@ -18,7 +20,7 @@ AI agents, so our tools check what actually runs, not what the code looks like.
 
 | Project | What it does | Status |
 |---|---|---|
-| [QueryFence](https://github.com/steelreed/queryfence) | SQL policy testing for the JVM. Catches tenant leaks, unbounded updates and unsafe queries in your integration tests. | 0.1.0 in preparation |
+| [QueryFence](https://steelreed.com/queryfence/) ([GitHub](https://github.com/steelreed/queryfence)) | SQL policy testing for the JVM. Catches tenant leaks, unbounded updates and unsafe queries in your integration tests. | 0.1.0 in preparation |
 
 ## How we build
 
@@ -29,5 +31,6 @@ AI agents, so our tools check what actually runs, not what the code looks like.
 
 ## Contact
 
+- Website: [steelreed.com](https://steelreed.com)
 - Security reports: read our [security policy](https://github.com/steelreed/.github/blob/main/SECURITY.md).
 - Everything else: hello@steelreed.com
